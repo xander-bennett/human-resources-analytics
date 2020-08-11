@@ -3,7 +3,7 @@
 
 Using data science and machine learning to who figure out who is more likely to click on an ad.
 
-## Summary:
+# Summary:
 
 Extracting information from company data to predict whether an employees abscense based on the the illness as well as a number of contributing factors.
 
@@ -26,7 +26,7 @@ The approach taken to solve this problem proceeded as follows:
     - **Check out the Tableau link!**
 
 
-## Findings:
+# Findings:
 
 -  Average probability for certain ages to have a prolonged absence.
     - A 28 year old (youngest age available) is 59% more likely to be excessively absent (more than three hours) if they are away for being sick. Conventional wisdom would suggest that they younger the person, the less likely they are to be down for the count. Interesting find.
