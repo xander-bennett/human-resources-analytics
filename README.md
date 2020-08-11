@@ -21,9 +21,9 @@ The approach taken to solve this problem proceeded as follows:
 - SQL integration
     - Initialized a MYSQL database with processed, predicted data for further analysis
 - Data Visualization
-    - Illustrated findings using Tableau(https://public.tableau.com/profile/alexander.bennett#!/vizhome/Employee_Absenteeism/AgeVsProbability?publish=yes)
+    - Illustrated findings using [Tableau](https://public.tableau.com/profile/alexander.bennett#!/vizhome/Employee_Absenteeism/AgeVsProbability?publish=yes)
 
-    - **Check out the Tableau link!**
+    - **Check out the Tableau link for the visualizations!**
 
 
 # Findings:
