@@ -1,8 +1,6 @@
 # You okay?
 ## Analyzing employee absenteeism with Python, SQL, and Tableau
 
-Using data science and machine learning to who figure out who is more likely to click on an ad.
-
 # Summary:
 
 Extracting information from company data to predict whether an employees abscense based on the the illness as well as a number of contributing factors.
