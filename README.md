@@ -27,8 +27,7 @@ The approach taken to solve this problem proceeded as follows:
 # Findings:
 
 -  Average probability for certain ages to have a prolonged absence.
-    - A 28 year old (youngest age available) is 59% more likely to be excessively absent (more than three hours) if they are away for being sick. Conventional wisdom would suggest that they younger the person, the less likely they are to be down for the count. Interesting find.
-
+    - A 28 year old (youngest age available) is 59% more likely to be excessively absent (more than three hours) if they are away for being sick. 
 - Reasons:
     1 - Illness/Disease
     2 - Pregnancy/Birth related
